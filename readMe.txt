@@ -1,4 +1,4 @@
-# Readme.txt for Notehub
+# Readme for Notehub
 
 ## Table of Contents
 1. Project Overview
