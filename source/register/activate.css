@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+
+/*Menu and Nav bar*/
+
+.navbar {
+    padding: 20px 0px;
+    background-color: #123458;
+}
+
+.brand {
+    margin-left: 5px;
+}
+
+.nav-item {
+    width: 104px;
+}
+
+.nav-item-login {
+    width: 80px;
+}
+
+.nav-item-home {
+    width: 87px;
+}
+
+.logo {
+    margin-left: 15px;
+    margin-right: 5px;
+    height: 45px;
+    width: 45px;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    padding: 0;
+}
+
+/*Menu and Nav bar*/
+
+body {
+    background-color: #F1EFEC;
+}
+
+.main {
+    padding-top: 130px;
+    text-align: center;
+}
+
+.slogan {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 350%;
+}
+
+.main > p {
+    font-size: 125%;
+}
+
+.full-width-container {
+    overflow: hidden;
+}
+
+.mock-up-sample {
+    margin-top: 75px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 80px;
+    padding: 0px;
+}
+
+.gap > i {
+    margin-right: 5px;
+}
+
+.container {
+    margin-bottom: 75px;
+}
+
+.container > h2 {
+    margin-bottom: 40px;
+}
+
+.features > p {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #D4C9BE;
+    font-size: 110%;
+}
+
+footer > p {
+    padding-top: 20px;
+    margin-bottom: 2px;
+}
+
+div > a {
+    color: #030303;
+}

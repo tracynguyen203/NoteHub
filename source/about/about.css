@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+}
+
+/*Menu and Nav bar*/
+
+.navbar {
+    padding: 20px 0px;
+    background-color: #FAF1E6;
+}
+
+.brand {
+    margin-left: 5px;
+}
+
+.nav-item {
+    width: 104px;
+}
+
+.nav-item-login {
+    width: 80px;
+}
+
+.nav-item-home {
+    width: 87px;
+}
+
+.logo {
+    margin-left: 15px;
+    margin-right: 5px;
+    height: 45px;
+    width: 45px;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    padding: 0;
+}
+
+/*Menu and Nav bar*/
+
+body {
+    background: radial-gradient(circle at center, #4487d0, #1c4776, #123458, #071728);
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 5rem;
+    text-shadow:
+        2px 2px 10px rgba(255, 255, 255, 0.3),
+        0px 0px 20px rgba(255, 255, 255, 0.5),
+        0px 0px 40px rgba(255, 255, 255, 0.2);
+    line-height: 1.2;
+    color: white;
+}
+
+.intro {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    color: white;
+    font-style: normal;
+    text-shadow:
+        2px 2px 10px rgba(255, 255, 255, 0.3),
+        0px 0px 20px rgba(255, 255, 255, 0.5),
+        0px 0px 40px rgba(255, 255, 255, 0.2);
+}
+
+.main-container {
+    margin: 2rem;
+    padding-top: 5rem;
+    justify-content: center;
+    align-content: center;
+}
+
+.img-container {
+    padding: 0;
+}
+
+.img-container img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-shadow:
+        2px 2px 10px rgba(255, 255, 255, 0.3),
+        0px 0px 20px rgb(7, 166, 220),
+        0px 0px 40px rgba(221, 221, 221, 0.2);
+}
+
+section .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-content: center;
+}
+
+.row .card {
+    background: rgba(0, 0, 0, 0.179);
+    color: white;
+    font-family: "Noto Sans", sans-serif;
+    border-radius: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 320px;
+    align-items: center;
+}
+
+.memInfor {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.memInfor h5 {
+    font-size: 1em;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+section .card .image img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #E4EFE7;
+}
+
+.card-title {
+    font-size: 1.2rem;
+}
+
+section .card .btn {
+    background-color: #99BC85;
+}
