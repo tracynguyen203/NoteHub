@@ -1,4 +1,4 @@
-# Readme.txt for Notehub
+# Readme for Notehub
 
 ## Table of Contents
 1. Project Overview
@@ -49,7 +49,7 @@
       Open the index.html file in your web browser to access the login page.
       You can either create a new account by signing up, or log in using the provided test account below:
    - Email: notehub1805@gmail.com
-   - Password: 123456
+   - Password: 
 
    c. **Test the note management**
       Upon successful login, the user is redirected to noteManagement.php, which provides access to all note management features like: 
@@ -70,7 +70,7 @@
    The project's repository for this project can be found [here](https://free02.123host.vn:2222/). 
    Please sign in by this account information below:
    - Username: ijdtkfvr
-   - Password: iZtFium9Z5
+   - Password: 
 
    To view the database in phpMyAdmin, follow these instructions: 
    - Go to your hosting panel.
@@ -80,7 +80,7 @@
 5. Login credentials: 
    - The user account to log in the website: 
       Email: notehub1805@gmail.com
-      User Password: 123456
+      User Password: 
 
 6. Pre-loaded data: 
    - This test account has 1 note pre-loaded to demonstrate editing, deleting, renaming and setting passwords for the note.
@@ -91,7 +91,7 @@
    - Click on the "Log In" (next to a white right-facing bracket icon) on the navigate bar in index page.
       Email: notehub1805@gmail.com
       User name: admin
-      User password: 123456 
+      User password:  
 
    ## If users choose to sign up your own account:
    - Click on the "Sign up" on the navigation bar in index page: 
